@@ -69,16 +69,6 @@ npm install
 npm start
 Приложение: http://localhost:3000
 
-## 📡 API
-```
-Метод | URL | Описание
-GET | /api/todos | Все задачи
-GET | /api/todos/{id} | Задача по ID
-POST | /api/todos | Создать
-PUT | /api/todos/{id} | Обновить
-DELETE | /api/todos/{id} | Удалить
-```
-
 ## 🗄 База данных
 
 H2 In-Memory. Таблица todos:
