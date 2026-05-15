@@ -31,6 +31,7 @@
 
 ## Структура проекта
 
+```
 todo-fullstack/
 ├── backend/
 │   ├── src/main/kotlin/com/todo/
@@ -39,8 +40,7 @@ todo-fullstack/
 │   │   ├── repository/TodoRepository.kt
 │   │   ├── service/TodoService.kt
 │   │   └── controller/TodoController.kt
-│   ├── src/main/resources/
-│   │   └── application.properties
+│   ├── src/main/resources/application.properties
 │   └── pom.xml
 ├── frontend/
 │   ├── src/
@@ -54,6 +54,7 @@ todo-fullstack/
 │   │   └── App.css
 │   └── package.json
 └── README.md
+```
 
 ## Запуск
 
