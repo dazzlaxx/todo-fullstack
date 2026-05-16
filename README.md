@@ -69,7 +69,7 @@ npm install
 npm start
 Приложение: http://localhost:3000
 
-## 🗄 База данных
+## База данных
 
 H2 In-Memory. Таблица todos:
 - id (Long, PK)
